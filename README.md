@@ -47,7 +47,9 @@ To support the conclusion of a year round surf and ice cream store, I've also lo
 ### June Precipitation
 - The average precipitation for June is .02 with the mode equal to 0.0.
 - The min is 0.00 and the max is 4.43.
-![summary1](https://user-images.githubusercontent.com/87085239/173212086-8188095e-9c5b-4e1f-a2b4-8831ff7565d6.png)
+
+
+![summary1](https://user-images.githubusercontent.com/87085239/173212217-0d28efdd-7010-4983-8c7f-7e5648cde903.png)
 
 ![summary2](https://user-images.githubusercontent.com/87085239/173212101-e4341dca-b42e-4844-b4c8-ed06da432372.png)
 
