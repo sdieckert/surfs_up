@@ -56,6 +56,8 @@ To support the conclusion of a year round surf and ice cream store, I've also lo
 ### December Precipitation
 - The average precipitation for December is 0.03 and the mode is 0.0.
 - The min is 0.00 and the max is 6.42
+
+
 ![summary3](https://user-images.githubusercontent.com/87085239/173212112-732ffe87-911d-43a4-8218-851f9bf403b8.png)
 
 ![summary4](https://user-images.githubusercontent.com/87085239/173212114-311ae783-4835-435f-92d7-fb6c4be6ac0a.png)
